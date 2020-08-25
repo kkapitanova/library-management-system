@@ -1,0 +1,90 @@
+﻿BookID,Checkout Date,Return Date,Title
+101,23/01/17,23/02/17,The Great Gatsby
+133,24/02/17,14/03/17,Animal Farm
+134,24/02/17,14/03/17,Animal Farm
+135,24/02/17,14/03/17,Animal Farm
+136,24/02/17,14/03/17,Animal Farm
+137,24/02/17,14/03/17,Animal Farm
+322,12/03/17,15/04,17,Anna Karenina
+323,13/03/17,16/04/17,Anna Karenina
+633,15/04/17,12/05/17,Hamlet
+634,15/04/17,12/05/17,Hamlet
+635,15/04/17,12/05/17,Hamlet
+636,15/04/17,12/05/17,Hamlet
+582,21/06/17,18/07/17,The Hunger Games
+583,21/06/17,18/07/17,The Hunger Games
+584,21/06/17,18/07/17,The Hunger Games
+585,21/06/17,18/07/17,The Hunger Games
+586,21/06/17,18/07/17,The Hunger Games
+587,21/06/17,18/07/17,The Hunger Games
+588,21/06/17,18/07/17,The Hunger Games
+589,21/06/17,18/07/17,The Hunger Games
+590,21/06/17,18/07/17,The Hunger Games
+591,21/06/17,18/07/17,The Hunger Games
+592,21/06/17,18/07/17,The Hunger Games
+633,15/07/17,12/08/17,Hamlet
+634,15/07/17,12/08/17,Hamlet
+245,18/09/17,20/09/17,Paper Towns
+948,13/10/17,22/10/17,To Kill a Mockingbird
+948,29/10/17,25/11/17,To Kill a Mockingbird
+133,23/02/18,14/03/18,Animal Farm
+134,23/02/18,14/03/18,Animal Farm
+135,23/02/18,14/03/18,Animal Farm
+136,24/02/18,14/03/18,Animal Farm
+137,24/02/18,14/03/18,Animal Farm
+102,27/02/18,23/04/18,The Great Gatsby
+948,05/04/18,22/04/18,To Kill a Mockingbird
+633,15/07/18,13/08/18,Hamlet
+634,15/07/18,13/08/18,Hamlet
+582,21/06/18,18/07/18,The Hunger Games
+583,21/06/18,18/07/18,The Hunger Games
+584,21/06/18,18/07/18,The Hunger Games
+585,21/06/18,18/07/18,The Hunger Games
+586,21/06/18,18/07/18,The Hunger Games
+587,21/06/18,18/07/18,The Hunger Games
+588,21/06/18,18/07/18,The Hunger Games
+589,21/06/18,18/07/18,The Hunger Games
+590,21/06/18,18/07/18,The Hunger Games
+591,21/06/18,18/07/18,The Hunger Games
+592,21/06/18,18/07/18,The Hunger Games
+728,22/07/18,16/08/18,The Book Thief
+729,22/07/18,16/08/18,The Book Thief
+730,23/07/18,16/08/18,The Book Thief
+731,23/07/18,16/08/18,The Book Thief
+732,24/07/18,16/08/18,The Book Thief
+824,11/11/18,12/12/18,Fahrenheit 451
+825,11/11/18,12/12/18,Fahrenheit 451
+426,11/11/18,12/12/18,Moby Dick
+103,14/11/18,02/12/18,The Great Gatsby
+426,08/01/19,18/01/19,Moby Dick
+426,22/01/19,25/03/19,Moby Dick
+103,01/02/19,23/04/19,The Great Gatsby
+103,05/02/19,11/05/19,The Great Gatsby
+133,24/03/19,14/04/19,Animal Farm
+134,24/03/19,14/04/19,Animal Farm
+135,24/03/19,14/04/19,Animal Farm
+136,25/03/19,14/04/19,Animal Farm
+137,25/03/19,14/04/19,Animal Farm
+426,24/04/19,29/04/19,Moby Dick
+426,24/04/19,29/04/19,Moby Dick
+103,05/03/19,18/05/19,The Great Gatsby
+104,05/03/19,18/05/19,The Great Gatsby
+105,05/03/19,18/05/19,The Great Gatsby
+106,05/03/19,18/05/19,The Great Gatsby
+426,01/05/19,18/05/19,Moby Dick
+426,19/05/19,03/06/19,Moby Dick
+324,21/04/19,18/06/19,Anna Karenina
+103,19/05/19,18/06/19,The Great Gatsby
+426,06/06/19,20/06/19,Moby Dick
+103,06/06/19,20/06/19,The Great Gatsby
+426,13/06/19,01/07/19,Moby Dick
+827,04/07/19,18/07/19,Fahrenheit 451
+828,04/07/19,18/07/19,Fahrenheit 451
+946,04/07/19,18/07/19,To Kill a Mockingbird
+946,22/07/19,29/07/19,To Kill a Mockingbird
+947,01/08/19,22/08/19,To Kill a Mockingbird
+948,01/08/19,22/08/19,To Kill a Mockingbird
+106,17/09/19,29/10/19,The Great Gatsby
+426,12/12/19,12/12/19,Moby Dick
+633,12/12/19,12/12/19,Hamlet
+633,12/12/19,12/12/19,Hamlet

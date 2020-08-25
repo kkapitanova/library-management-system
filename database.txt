@@ -1,0 +1,56 @@
+ID,Title,Author,Purchase Date,Title
+101,The Great Gatsby,F. Scott Fitzgerald,2007,0
+102,The Great Gatsby,F. Scott Fitzgerald,2007,0
+103,The Great Gatsby,F. Scott Fitzgerald,2007,0
+104,The Great Gatsby,F. Scott Fitzgerald,2007,0
+105,The Great Gatsby,F. Scott Fitzgerald,2007,0
+106,The Great Gatsby,F. Scott Fitzgerald,2007,0
+133,Animal Farm,George Orwell,2002,0
+134,Animal Farm,George Orwell,2002,0
+135,Animal Farm,George Orwell,2002,0
+136,Animal Farm,George Orwell,2002,0
+137,Animal Farm,George Orwell,2002,0
+138,Animal Farm,George Orwell,2002,0
+139,Animal Farm,George Orwell,2002,0
+140,Animal Farm,George Orwell,2002,0
+244,Paper Towns,John Green,2014,0
+245,Paper Towns,John Green,2014,0
+246,Paper Towns,John Green,2014,0
+247,Paper Towns,John Green,2014,0
+321,Anna Karenina,Leo Tolstoy,2007,0
+322,Anna Karenina,Leo Tolstoy,2007,0
+323,Anna Karenina,Leo Tolstoy,2007,0
+324,Anna Karenina,Leo Tolstoy,2007,0
+325,Anna Karenina,Leo Tolstoy,2007,0
+326,Anna Karenina,Leo Tolstoy,2007,0
+426,Moby Dick,Herman Melville,1998,0
+427,Moby Dick,Herman Melville,1998,0
+428,Moby Dick,Herman Melville,1998,0
+582,The Hunger Games,Suzanne Collins,2017,0
+583,The Hunger Games,Suzanne Collins,2017,0
+584,The Hunger Games,Suzanne Collins,2017,0
+585,The Hunger Games,Suzanne Collins,2017,0
+586,The Hunger Games,Suzanne Collins,2017,0
+587,The Hunger Games,Suzanne Collins,2017,0
+588,The Hunger Games,Suzanne Collins,2017,0
+589,The Hunger Games,Suzanne Collins,2017,0
+590,The Hunger Games,Suzanne Collins,2017,0
+591,The Hunger Games,Suzanne Collins,2017,0
+592,The Hunger Games,Suzanne Collins,2017,0
+633,Hamlet,William Shakespeare,2003,0
+634,Hamlet,William Shakespeare,2003,0
+635,Hamlet,William Shakespeare,2003,0
+636,Hamlet,William Shakespeare,2003,0
+728,The Book Thief,Markus Zusak,2008,0
+729,The Book Thief,Markus Zusak,2008,0
+730,The Book Thief,Markus Zusak,2008,0
+731,The Book Thief,Markus Zusak,2008,0
+732,The Book Thief,Markus Zusak,2008,0
+824,Fahrenheit 451,Ray Bradbury,2001,0
+825,Fahrenheit 451,Ray Bradbury,2001,0
+826,Fahrenheit 451,Ray Bradbury,2001,0
+827,Fahrenheit 451,Ray Bradbury,2001,0
+828,Fahrenheit 451,Ray Bradbury,2001,0
+946,To Kill a Mockingbird,Harper Lee,2012,0
+947,To Kill a Mockingbird,Harper Lee,2012,0
+948,To Kill a Mockingbird,Harper Lee,2012,0
